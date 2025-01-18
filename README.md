@@ -16,8 +16,8 @@ UniversityToken is a custom ERC-20 token created as part of an educational proje
 The contract has been deployed to the Sepolia test network.
 
 ### Deployed Contract Information
-- **Contract Address**: `0xYourDeployedContractAddress`
-- **Block Explorer**: [Sepolia Etherscan](https://sepolia.etherscan.io/address/0xYourDeployedContractAddress)
+- **Contract Address**: `0xD6D58070cbB0e91FF8fBf2F37cEdDC9B8D945440`
+- **Block Explorer**: [Sepolia Etherscan][ (https://sepolia.etherscan.io/address/0xD6D58070cbB0e91FF8fBf2F37cEdDC9B8D945440)
 
 ## How to Use
 
