@@ -16,10 +16,6 @@ It was developed as part of an assignment to demonstrate how to create and deplo
 
 ---
 
-![image](https://github.com/user-attachments/assets/7ee31497-6f13-4dc8-a122-edf487f1b7c6)
-
-![image](https://github.com/user-attachments/assets/40685c28-0e61-4d35-a3fa-1cd5e99cfd86)
-
 
 ## 🚀 Deployment Instructions
 
@@ -72,6 +68,8 @@ All tests should pass successfully.
 
 🔍 **View on Etherscan:**  
 [Sepolia Etherscan](https://sepolia.etherscan.io/address/0xDC3e5a7e66b7be7Ed454d57025692389843423fb)
+
+![image](https://github.com/user-attachments/assets/7ee31497-6f13-4dc8-a122-edf487f1b7c6)
 
 ---
 
